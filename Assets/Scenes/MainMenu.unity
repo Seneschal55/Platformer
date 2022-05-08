@@ -4284,6 +4284,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7730297482240673021, guid: fc0a0981b9d94cf48a8ea319373bae33, type: 3}
+      propertyPath: m_Text
+      value: Created by Keith White for ITSC 4231
+      objectReference: {fileID: 0}
     - target: {fileID: 7730297482275836251, guid: fc0a0981b9d94cf48a8ea319373bae33, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

@@ -1238,4 +1238,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/ScoreMode.unity
   - Assets/Scenes/TimeMode.unity
-  playerPath: C:/Users/ultim/Documents/Unity Projects/Platformer/My project.exe
+  playerPath: C:/Users/ultim/Documents/Unity Projects/My project/My project.exe
